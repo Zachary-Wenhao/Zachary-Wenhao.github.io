@@ -43,7 +43,7 @@ export const experience = [
 ];
 
 export const hooping = [
-  '<strong>UNNC Robin Hood Cup</strong>, 3rd Place in Man Basketball, 2024 Spring',
+  "<strong>UNNC Robin Hood Cup</strong>, 3rd Place in Men's Basketball, 2024 Spring",
   '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2024 Spring (Mid & Power Forward)',
   '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2022 Spring (Power Forward)',
   '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2021 Fall (Power Forward)',
@@ -83,7 +83,7 @@ export const footer = [
         },
         {
           text: "Clone this page",
-          link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+          link: "https://github.com/vinaysomawat/Zachary-Wenhao.github.io",
         },
         {
           text: "LeetCode",
