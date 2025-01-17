@@ -68,6 +68,7 @@ export const education = [
     icon: "book",
   },
 ];
+
 export const footer = [
     {
       label: "Resources",
@@ -108,3 +109,6 @@ export const footer = [
     data: ["Made with hearts; by Wenhao Xu"],
   },
 ];
+
+    
+
