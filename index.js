@@ -3,7 +3,7 @@ import {
   skills,
   education,
   experience,
-  basketball,
+  hooping,
   footer,
 } from "./user-data/data.js";
 
@@ -99,7 +99,7 @@ function populateSkills(items, id) {
 }
 
 function populateTrekking(items) {
-  const skillsTag = document.getElementById('trekking');
+  const skillsTag = document.getElementById('hooping');
   items.forEach((item) => {
     const h3 = getElement("li", null);
     h3.innerHTML = item;

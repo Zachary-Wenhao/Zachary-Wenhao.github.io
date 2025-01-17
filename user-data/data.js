@@ -42,7 +42,7 @@ export const experience = [
   },
 ];
 
-export const basketball = [
+export const hooping = [
   '<strong>UNNC Robin Hood Cup</strong>, 3rd Place in Man Basketball, 2024 Spring',
   '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2024 Spring (Mid & Power Forward)',
   '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2022 Spring (Power Forward)',
