@@ -452,7 +452,7 @@ fetchReposFromGit(gitRepo);
 fetchGitConnectedData(gitConnected);
 
 populateExp_Edu(experience, "experience");
-populateTrekking(trekking);
+populateTrekking(basketball, "basketball");
 populateExp_Edu(education, "education");
 
 populateLinks(footer, "footer");
