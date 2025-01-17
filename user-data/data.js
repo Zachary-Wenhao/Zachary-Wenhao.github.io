@@ -68,23 +68,43 @@ export const education = [
     icon: "book",
   },
 ];
-
 export const footer = [
+    {
+      label: "Resources",
+      data: [
+        {
+          text: "Enable Dark/Light Mode",
+          func: "enableDarkMode()",
+        },
+        {
+          text: "Print this page",
+          func: "window.print()",
+        },
+        {
+          text: "Clone this page",
+          link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+        },
+        {
+          text: "LeetCode",
+          link: "https://leetcode.com/somawatvinay/",
+        },
+      ],
+    },
   {
     label: "Links",
     data: [
       {
-        text: "LinkedIn",
-        link: "https://www.linkedin.com/in/zach-xu86",
+        text: "Linkedin",
+        link: "https://www.linkedin.com/in/zach-xu86/",
       },
       {
-        text: "GitHub",
+        text: "Github",
         link: "https://github.com/Zachary-Wenhao",
       },
     ],
   },
   {
     label: "copyright-text",
-    data: ["Made with ❤️ by Wenhao Xu"],
+    data: ["Made with hearts; by Wenhao Xu"],
   },
 ];
