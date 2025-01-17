@@ -42,25 +42,26 @@ export const experience = [
   },
 ];
 
-export const trekking = [
-  '<strong>Kheerganga Trek</strong>, Himachal Pradesh (9,711 feet)',
-  '<strong>Triund Trek</strong>, Himachal Pradesh (9,350 feet)',
-  '<strong>Kedarkantha Trek</strong>, Uttarakhand (12,500 feet)',
-  '<strong>Jalori Pass Trek</strong>, Himachal Pradesh (10,800 feet)',
+export const basketball = [
+  '<strong>UNNC Robin Hood Cup</strong>, 3rd Place in Man Basketball, 2024 Spring',
+  '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2024 Spring (Mid & Power Forward)',
+  '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2022 Spring (Power Forward)',
+  '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2021 Fall (Power Forward)',
+  '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2021 Spring (Power Forward)',
 ];
 
 export const education = [
   {
     title: "Master of Computational Data Science",
-    duration: "May 2024 - Dec 2025",
+    duration: "2024 - 2025",
     subtitle: "Carnegie Mellon University",
     details: ["GPA: 3.94/4.0", "Courses: 10701 Machine Learning (PhD Level), 15619 Cloud Computing"],
     tags: ["Machine Learning", "Cloud Computing", "Machine Learning", "Data Science"],
     icon: "graduation-cap",
   },
   {
-    title: "Bachelor of Science in Computer Science and Data Science",
-    duration: "Aug 2020 - May 2024",
+    title: "Bachelor of Science in Computer Science",
+    duration: "2020 - 2024",
     subtitle: "New York University Shanghai",
     details: ["GPA: 3.67/4.0", "Courses: Computer Vision, Recommendation Systems"],
     tags: ["Data Science", "Databases", "Recommendation Systems", "Computer Vision"],
