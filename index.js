@@ -3,7 +3,7 @@ import {
   skills,
   education,
   experience,
-  trekking,
+  basketball,
   footer,
 } from "./user-data/data.js";
 
