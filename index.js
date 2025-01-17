@@ -447,9 +447,9 @@ populateBio(bio, "bio");
 
 populateSkills(skills, "skills");
 
-fetchBlogsFromMedium(medium);
-fetchReposFromGit(gitRepo);
-fetchGitConnectedData(gitConnected);
+// fetchBlogsFromMedium(medium);
+// fetchReposFromGit(gitRepo);
+// fetchGitConnectedData(gitConnected);
 
 populateExp_Edu(experience, "experience");
 populateTrekking(hooping, "hooping");
