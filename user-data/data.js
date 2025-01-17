@@ -1,7 +1,8 @@
 export const bio = [
   "Hello, I'm Wenhao Xu!",
-  "I’m a passionate and experienced <strong>Machine Learning Engineer</strong> and <strong>Data Scientist</strong> specializing in building scalable and efficient systems for machine learning and cloud applications. My expertise spans natural language processing, cloud computing, and data-driven decision-making.",
-  "Beyond coding, I enjoy playing basketball, traveling, and exploring intersections between technology and creativity.",
+  "I am currently pursuing a <strong>Master of Computational Data Science (MCDS)</strong> at Carnegie Mellon University, building on my Bachelor of Science in Computer Science and Data Science from NYU Shanghai. My interests span <strong>Natural Language Processing</strong>, <strong>Multimodal Machine Learning</strong>, <strong>Information Retrieval</strong>, and <strong>Cloud Computing</strong>.",
+  "I am passionate about applying my skills as a <strong>Machine Learning Engineer</strong>, <strong>Data Scientist</strong>, or <strong>Software Developer</strong> in real-world settings to contribute to cutting-edge projects and enhance user experiences.",
+  "Beyond academics, I enjoy playing basketball, exploring new technologies, and engaging in creative problem-solving.",
 ];
 
 export const skills = [
@@ -51,15 +52,15 @@ export const trekking = [
 export const education = [
   {
     title: "Master of Computational Data Science",
-    duration: "2024 - 2025",
+    duration: "May 2024 - Dec 2025",
     subtitle: "Carnegie Mellon University",
-    details: ["GPA: 3.94/4.0", "Courses: Machine Learning, Cloud Computing"],
-    tags: ["Machine Learning", "Cloud Computing", "NLP", "Deep Learning"],
+    details: ["GPA: 3.94/4.0", "Courses: 10701 Machine Learning (PhD Level), 15619 Cloud Computing"],
+    tags: ["Machine Learning", "Cloud Computing", "Machine Learning", "Data Science"],
     icon: "graduation-cap",
   },
   {
     title: "Bachelor of Science in Computer Science and Data Science",
-    duration: "2020 - 2024",
+    duration: "Aug 2020 - May 2024",
     subtitle: "New York University Shanghai",
     details: ["GPA: 3.67/4.0", "Courses: Computer Vision, Recommendation Systems"],
     tags: ["Data Science", "Databases", "Recommendation Systems", "Computer Vision"],
