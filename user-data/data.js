@@ -42,6 +42,14 @@ export const experience = [
   },
 ];
 
+export const basketball = [
+  '<strong>UNNC Robin Hood Cup</strong>, 3rd Place in Man Basketball, 2024 Spring',
+  '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2024 Spring (Mid & Power Forward)',
+  '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2022 Spring (Power Forward)',
+  '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2021 Fall (Power Forward)',
+  '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2021 Spring (Power Forward)',
+];
+
 export const education = [
   {
     title: "Master of Computational Data Science",
@@ -59,14 +67,6 @@ export const education = [
     tags: ["Data Science", "Databases", "Recommendation Systems", "Computer Vision"],
     icon: "book",
   },
-];
-
-export const basketball = [
-  '<strong>UNNC Robin Hood Cup</strong>, 3rd Place in Man Basketball, 2024 Spring',
-  '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2024 Spring (Mid & Power Forward)',
-  '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2022 Spring (Power Forward)',
-  '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2021 Fall (Power Forward)',
-  '<strong>Basketball Varsity Team</strong>, NYU Shanghai, 2021 Spring (Power Forward)',
 ];
 
 export const footer = [
