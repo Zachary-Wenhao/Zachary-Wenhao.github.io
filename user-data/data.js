@@ -6,11 +6,11 @@ export const bio = [
 ];
 
 export const skills = [
-  "Programming: Python, Java, JavaScript, C/C++, SQL, Scala, R, HTML, CSS",
-  "Libraries/Frameworks: PyTorch, TensorFlow, Pandas, NumPy, Sklearn, Spark, Hadoop",
-  "Cloud & DevOps: AWS, GCP, Azure, Kubernetes, Docker, Helm, Terraform, CI/CD",
-  "Tools: Kafka, Hive, Flink, MySQL, MongoDB, Hibernate, DataBricks, Maven",
-  "Specialties: Machine Learning, NLP, Deep Learning, Data Analysis, Cloud Computing",
+  "<strong>Programming</strong>: Python, Java, JavaScript, C/C++, SQL, Scala, R, HTML, CSS",
+  "<strong>Libraries/Frameworks</strong>: PyTorch, TensorFlow, Pandas, NumPy, Sklearn, Spark, Hadoop, Spring Boot",
+  "<strong>Cloud & DevOps</strong>: AWS, GCP, Azure, Kubernetes, Docker, Helm, Terraform, CI/CD",
+  "<strong>Tools</strong>: Kafka, Hive, Flink, MySQL, MongoDB, Hibernate, DataBricks, Maven, Git",
+  "<strong>Specialties</strong>: Machine Learning, NLP, Deep Learning, Cloud Computing, Data Analysis, Data Integration, Data Ingestion, Data Modeling, Software Development, Database",
 ];
 
 export const experience = [
