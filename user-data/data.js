@@ -1,5 +1,5 @@
 export const bio = [
-  "Hello, I'm Wenhao Xu!",
+  "Hello, I'm Wenhao Xu. Well, you can go by Zach Xu!",
   "I am currently pursuing a <strong>Master of Computational Data Science (MCDS)</strong> at Carnegie Mellon University, building on my Bachelor of Science in Computer Science and Data Science from NYU Shanghai. My interests span <strong>Natural Language Processing</strong>, <strong>Multimodal Machine Learning</strong>, <strong>Information Retrieval</strong>, and <strong>Cloud Computing</strong>.",
   "I am passionate about applying my skills as a <strong>Machine Learning Engineer</strong>, <strong>Data Scientist</strong>, or <strong>Software Developer</strong> in real-world settings to contribute to cutting-edge projects and enhance user experiences.",
   "Beyond academics, I enjoy playing basketball, exploring new technologies, and engaging in creative problem-solving.",
